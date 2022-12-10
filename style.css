@@ -14,7 +14,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./images/ban.png);
+    background-image: url(./ban.png);
     border-radius: 20px;
 }
 main{
